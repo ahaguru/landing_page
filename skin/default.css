@@ -1,0 +1,65 @@
+/*
+#1 = 85b0be
+#2 = 95cbdd
+*/
+
+a:hover {
+	color: #0076ef;
+}
+
+/* menu */
+.nav>li>a:hover {
+	color: #0076ef;
+}
+
+
+/* flexslider */
+.flex-control-paging li a {
+	background: #0076ef;
+}
+
+
+.testimonial span.author a {
+	color: #0076ef;
+}
+
+/* --- icon box hover --- */
+.hi-icon-effect-5 .hi-icon {
+	color: #0076ef;
+	box-shadow: 0 0 0 4px #0076ef;
+}
+.no-touch .hi-icon-effect-5 .hi-icon:hover {
+	background: #0076ef;
+	box-shadow: 0 0 0 8px  #0076ef;
+}
+
+
+/* portfolio */
+.portfolio-item .portfolio-desc {
+	background: #0076ef;
+}
+
+/* btn */
+.btn-theme {
+  background: #0076ef;
+}
+.btn-theme:hover,.btn-theme:focus,.btn-theme:active{
+  background: #0076ef;
+}
+.btn-cta,.btn-cta.btn-lg {
+  background: #0076ef;
+  border-color: #0076ef;
+}
+
+.btn-cta:focus,.btn-cta:active{
+   border-color: #0076ef;
+}
+
+/* footer */
+.social-circle li a {
+	background:#0076ef;
+}
+
+a.scrollup{
+	background:#0076ef;
+}
