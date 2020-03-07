@@ -44,9 +44,9 @@
   //testimonial
   jQuery('.testimonials-slider').flexslider({
     animation: "slide",
-    directionNav: true,
-    controlNav: true,
-    pauseOnHover: true,
+    directionNav: false,
+    controlNav: false,
+    pauseOnHover: false,
     slideshowSpeed: 4000,
     direction: "horizontal" //Direction of slides
   });
@@ -197,5 +197,5 @@ $(window).load(function(){
       });
     });
   }
-  
+
 });
